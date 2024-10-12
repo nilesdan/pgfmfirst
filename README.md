@@ -10,4 +10,4 @@ info on programming fundamental for batch 2
 - bullet 2
   i
   -test 
-  
+  test
