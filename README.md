@@ -11,3 +11,7 @@ info on programming fundamental for batch 2
   i
   -test 
   test
+
+
+  -bullet 3 
+  
